@@ -1,2 +1,2 @@
 # AppTareas
-App para organizar tareas
+Interfaz para organizar tareas
