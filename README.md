@@ -8,7 +8,7 @@ Esta aplicación permite a los usuarios agregar, eliminar y marcar tareas como c
 1. **Ubicación del directorio**  
    Navega al directorio del proyecto:
    ```bash
-   cd RepoApp/AppTareas
+   cd /AppTareas
 
 2. **Comando**
     ```bash
